@@ -1,7 +1,0 @@
-<addon id="plugin.video.tomason" name="Tomason Filmy" version="1.0.1" provider-name="Tomason">
-    <extension point="xbmc.python.plugin" library="addon.py" />
-    <extension point="xbmc.addon.metadata">
-        <summary>Filmový zoznam</summary>
-        <description>Addon na zobrazovanie filmov</description>
-    </extension>
-</addon>
